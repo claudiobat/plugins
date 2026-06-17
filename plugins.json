@@ -585,13 +585,5 @@
   },{
     "name": "Chat Analytics",
     "url": "https://github.com/opencity-labs/ccat_chat_analytics"
-  },
-  {
-    "name": "Web UI for Cat version 2",
-    "url": "https://github.com/cheshire-cat-ai/ui"
-  },
-  {
-    "name": "Language Models Pack",
-    "url": "https://github.com/cheshire-cat-ai/llms"
   }
 ]
